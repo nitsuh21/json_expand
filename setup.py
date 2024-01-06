@@ -7,4 +7,5 @@ setup(
     install_requires=[
         
     ],
+    url='https://github.com/nitsuh21/json_expand.git'
 )
