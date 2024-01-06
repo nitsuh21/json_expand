@@ -2,11 +2,10 @@ from json_expander import expand_json, generate_random_id, add_prefix_suffix
 
 json_obj = {
     "_id": {"$oid": ""},
-    "bulkCode": "",
+    "userCode": "",
     "time": "21",
     "isActive": True,
-    "locked": False,
-    "woreda": "10"
+    "role": "student"
 }
 
 num_objects = 3
