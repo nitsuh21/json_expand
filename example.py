@@ -4,7 +4,6 @@ json_obj = {
     "_id": {"$oid": ""},
     "userCode": "",
     "time": "21",
-    "isActive": True,
     "role": "student"
 }
 
