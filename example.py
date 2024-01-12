@@ -6,7 +6,7 @@ json_obj = {
     "time": "21",
     "isActive": True,
     "locked": False,
-    "woreda": "10"
+    "woreda": "11"
 }
 
 num_objects = 3
