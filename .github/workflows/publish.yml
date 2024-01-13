@@ -3,7 +3,11 @@ name: Publish to PyPI
 on:
   push:
     branches:
+<<<<<<< HEAD
       - dev2
+=======
+      - main
+>>>>>>> 038d057 (secret added)
 
 jobs:
   build:

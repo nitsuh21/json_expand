@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/nit/Documents/blog-contents/scripts/json_expand/venv"
+VIRTUAL_ENV="/Users/nit/Documents/blog-contents/scripts/json_expander/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

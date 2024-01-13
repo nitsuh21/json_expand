@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/nit/Documents/blog-contents/scripts/json_expand/venv"
+set -gx VIRTUAL_ENV "/Users/nit/Documents/blog-contents/scripts/json_expander/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

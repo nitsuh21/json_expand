@@ -1,4 +1,4 @@
-#!/Users/nit/Documents/blog-contents/scripts/json_expand/venv/bin/python3.11
+#!/Users/nit/Documents/blog-contents/scripts/json_expander/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
